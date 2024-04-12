@@ -36,6 +36,10 @@
   show table: set text(hyphenate: true)
   show table: set par(justify: false, leading: 0.3em, first-line-indent: 0em)
 
+  show grid: set text(hyphenate: true)
+  show grid: set par(justify: false, leading: 0.3em, first-line-indent: 0em)
+    
+
   show figure.where(kind: image): set figure(supplement: "Рисунок")
   show figure.where(kind: table): set figure(supplement: "Таблица")
 
