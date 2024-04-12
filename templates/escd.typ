@@ -8,14 +8,14 @@
     
     #align(bottom)[
       #tablex(columns: (8mm, 10mm, 23mm, 15mm, 10mm, 67mm, 15mm, 15mm, 22mm,), inset: (bottom: 5mm),
-    [],[], [], [], [], cellx(colspan: 4, rowspan: 3, inset: 0pt, align: center + horizon)[#text("ПП.02.090207.09Д", size: 22pt)],
+    [],[], [], [], [], cellx(colspan: 4, rowspan: 3, inset: 0pt, align: center + horizon)[#text("ПП.03.090207.09Д", size: 22pt)],
     [], [], [], [], [], 
 
     cellx(inset: 0pt, align: center + horizon)[#text("Изм.", size: 10pt)], cellx(inset: 0pt, align: center + horizon)[#text("Лист", size: 10pt)], cellx(inset: 0pt, align: center + horizon)[#text("№ докум.", size: 10pt)], cellx(inset: 0pt, align: center + horizon)[#text("Подп.", size: 10pt)], cellx(inset: 3pt, align: center + horizon)[#text("Дата", size: 10pt)],
 
     cellx(inset: (left: 2pt), align: start + horizon, colspan: 2)[Разраб.], cellx(inset: (left: 2pt), align: start + horizon, )[Панков В.Д.], [], [], cellx(inset: (left: 2pt), align: center + horizon, rowspan: 5)[#text("ОТЧЁТ ПО\nПРОИЗВОДСТВЕННОЙ ПРАКТИКЕ", size: 14pt)], cellx(inset: 0pt, align: center + horizon, )[Лит.], cellx(inset: 0pt, align: center + horizon, )[Лиcт], cellx(inset: 0pt, align: center + horizon, )[Лиcтов],
 
-    cellx(inset: (left: 2pt), align: start + horizon, colspan: 2)[Пров.], cellx(inset: (left: 2pt), align: start + horizon, )[#text("Бартасевич И.Г.", size: 9pt)], [], [], cellx(inset: 0pt, align: center + horizon, )[#rect(height: 100%, width: 33%)], cellx(inset: 0pt, align: center + horizon, )[#counter(page).update(3)#counter(page).display()], cellx(inset: 0pt, align: center + horizon, )[#locate(loc => [#counter(page).final(loc).at(0)])],
+    cellx(inset: (left: 2pt), align: start + horizon, colspan: 2)[Пров.], cellx(inset: (left: 2pt), align: start + horizon, )[#text("Кафтна Д.Ю.", size: 9pt)], [], [], cellx(inset: 0pt, align: center + horizon, )[#rect(height: 100%, width: 33%)], cellx(inset: 0pt, align: center + horizon, )[#counter(page).update(3)#counter(page).display()], cellx(inset: 0pt, align: center + horizon, )[#locate(loc => [#counter(page).final(loc).at(0)])],
 
     cellx(inset: (left: 2pt), align: start + horizon, colspan: 2)[], [], [], [],  cellx(inset: 0pt, align: center + horizon, colspan: 3, rowspan: 3)[#text("ФСПО ГУАП", size: 12pt)],
 
@@ -35,7 +35,7 @@
       #tablex(columns: (7mm, 10mm, 23mm, 15mm, 10mm, 110mm, 10mm), 
       inset: (bottom: 5mm),
 
-      [], [], [], [], [], cellx(inset: 0pt, align: center + horizon, rowspan: 3)[#text("ПП.02.090207.09Д", size: 22pt)], cellx(inset: (left: 2pt), align: start + horizon)[Лист],
+      [], [], [], [], [], cellx(inset: 0pt, align: center + horizon, rowspan: 3)[#text("ПП.03.090207.09Д", size: 22pt)], cellx(inset: (left: 2pt), align: start + horizon)[Лист],
 
       [], [], [], [], [], cellx(inset: (left: 2pt), align: center + horizon, rowspan: 2)[#text(counter(page).display(), size: 14pt)],
 
