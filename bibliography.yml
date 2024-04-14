@@ -18,19 +18,7 @@ jetpack-compose:
     serial: 'ISBN: 978-1950325832'
     language: en
 
-ros2:
-    type: Web
-    title: Документация ROS2
-    url: 
-        value: https://docs.ros.org/en/humble/index.html
-        date: 2024-04-01
 
-rosbridge:
-    type: Web
-    title: Документация ROSbridge
-    url: 
-        value: https://github.com/RobotWebTools/rosbridge_suite
-        date: 2024-04-01
 
 kotlin:
     type: Web
@@ -46,33 +34,6 @@ idea:
         value: https://www.jetbrains.com/idea/
         date: 2024-04-01
 
-kotlin-rosbridge:
-    type: Web
-    title: Библиотека кодогенерации для РОСа
-    url:
-        value: https://github.com/thoebert/krosbridge-codegen
-        date: 2024-04-01
-
-python:
-    type: Web
-    title: Что такое Python?
-    url:
-        value: https://www.python.org
-        date: 2024-04-01
-
-flask:
-    type: Web
-    title: Документация Flask
-    url:
-        value: https://flask.palletsprojects.com/en/3.0.x/
-        date: 2024-04-01
-
-emacs:
-    type: Web
-    title: Emacs - текстовый редактор
-    url:
-        value: https://www.gnu.org/software/emacs/
-        date: 2024-04-01
 
 offlinefirst:
     type: Web
@@ -80,3 +41,33 @@ offlinefirst:
     url:
         value: https://developer.android.com/topic/architecture/data-layer/offline-first
         date: 2024-04-01
+
+gost1:
+  type: Web
+  title: ГОСТ 19.301-79
+  url:
+    value: https://www.swrit.ru/doc/espd/19.301-79.pdf 
+    date: 2024-04-01
+
+gost2:
+  type: Web
+  title: ГОСТ 19.401-78
+  url:
+    value: https://www.swrit.ru/doc/espd/19.401-78.pdf 
+    date: 2024-04-01
+
+gost3:
+  type: Web
+  title: ГОСТ 19.402-78
+  url:
+    value: https://www.swrit.ru/doc/espd/19.402-78.pdf 
+    date: 2024-04-01
+
+
+gost4:
+  type: Web
+  title: ГОСТ 19.002-80
+  url:
+    value: https://www.swrit.ru/doc/espd/19.002-80.pdf 
+    date: 2024-04-01
+

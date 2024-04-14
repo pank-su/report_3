@@ -17,6 +17,14 @@
   align(heading(content, numbering: none), center)
 }
 
+// false heading zero
+#let cfh0(content) = {
+    show heading: it => {
+	text(it, size: 14pt)
+    }
+    align(heading(content, numbering:none, outlined: false,), center)
+}
+
 // false heading
 #let fh(content) = {
     show heading: it => {
